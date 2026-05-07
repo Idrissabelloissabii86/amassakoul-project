@@ -1,0 +1,17 @@
+{
+    "name": "Serengeti Smile",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "src": "/img/asset/ZmF2aWNvbnMvc2VyZW5nZXRpLXNtaWxlLWxvZ28ucG5n?w=512&h=512&fit=crop&s=3d2d8d7fa152beb7097d452dad64e919",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/asset/ZmF2aWNvbnMvc2VyZW5nZXRpLXNtaWxlLWxvZ28ucG5n?w=180&h=180&fit=crop&s=512700b700e2b936dd9671b9676fe153",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ]
+    
+}
